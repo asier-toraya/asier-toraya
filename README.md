@@ -1,16 +1,22 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+code&size=35&pause=1000&color=9C9C9C&width=435&lines=Full+Stack+Developer)](https://git.io/typing-svg)
 
-<!--
-**asier-toraya/asier-toraya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```                                                                                                                 
+. Asier____________________________________________-_-       
+. Languages.Programming: . . .JavaScript, Java, Python
+. Languages.Computer: . . . . . . HTML, CSS, JSON, YML   
+. Languages.Real: . . . . . . . . . . English, Spanish    
+. Technologies: . . . . . React, Angular, Node, Others   
+               
+- Contact -________________________________________-_-
+. Email.Personal: . . . . . . . asier.toraya@gmail.com    
+. LinkedIn: . . . . . . . . . . . . . . . . /in/kasier   
+              
+- Text -___________________________________________-_-   
+  I've worked on real-world projects in freelance and    
+  team-based settings, building SPA applications,       
+  improving UX applying SSR, and creating reusable     
+  components.    
+             
+  Always open to collaborations, feedback, and new iedas.    
+  Feel free to reach out if something catches your eye.    
+```
