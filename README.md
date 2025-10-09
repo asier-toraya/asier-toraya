@@ -1,12 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+code&size=35&pause=1000&color=9C9C9C&width=435&lines=Full+Stack+Developer)](https://git.io/typing-svg)
 
 ```                                                                                                                 
-. Asier____________________________________________-_-       
-. Languages.Programming: . . .JavaScript, Java, Python
-. Languages.Computer: . . . . . . HTML, CSS, JSON, YML   
-. Languages.Real: . . . . . . . . . . English, Spanish    
-. Technologies: . . . . . React, Angular, Node, Others   
-               
 - Contact -________________________________________-_-
 . Email.Personal: . . . . . . . asier.toraya@gmail.com    
 . LinkedIn: . . . . . . . . . . . . . . . . /in/kasier   
