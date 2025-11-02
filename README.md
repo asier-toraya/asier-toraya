@@ -11,6 +11,6 @@
   improving UX applying SSR, and creating reusable     
   components.    
              
-  Always open to collaborations, feedback, and new iedas.    
+  Always open to collaborations, feedback, and new ideas.    
   Feel free to reach out if something catches your eye.    
 ```
