@@ -1,5 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+code&size=35&pause=1000&color=9C9C9C&width=435&lines=Full+Stack+Developer)](https://git.io/typing-svg)
-
+<br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&&size=35&duration=6000&pause=1000&width=435&lines=CyberSecurity+Analyst)](https://git.io/typing-svg)
 ```                                                                                                                 
 - Contact -________________________________________-_-
 . Email.Personal: . . . . . . . asier.toraya@gmail.com    
