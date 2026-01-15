@@ -9,8 +9,7 @@
 - Text -___________________________________________-_-   
   I've worked on real-world projects in freelance and    
   team-based settings, building SPA applications,       
-  improving UX applying SSR, and creating reusable     
-  components.    
+  improving UX, and creating reusable components.    
              
   Always open to collaborations, feedback, and new ideas.    
   Feel free to reach out if something catches your eye.    
